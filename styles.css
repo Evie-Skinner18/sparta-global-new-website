@@ -45,6 +45,23 @@ body {
   color: #fcf579;
   font-family: 'Archivo Narrow', sans-serif;
 
+
+}
+
+.parag {
+  font-size: 14pt;
+}
+
+.drumphoto {
+  border-radius: 50%;
+}
+
+.music {
+  background-color: #fcf579;
+}
+
+.bands {
+  color: #d1d1cc;
 }
 
 
