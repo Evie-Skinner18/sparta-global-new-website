@@ -1,0 +1,53 @@
+body {
+  /* padding-top: 70px; */
+  background-color: black;
+
+
+
+
+}
+
+.back-img {
+  background-image: url("https://hitlikeagirlcontest.com/wp-content/uploads/2017/03/evie-800x350.jpg");
+  background-size: cover;
+  overflow: hidden;
+
+}
+
+.perm {
+  font-family: 'Permanent Marker', cursive;
+}
+
+#title {
+  color: coral;
+  margin-bottom: 40px;
+}
+
+
+
+.navalicious {
+  font-size: 20pt;
+
+}
+
+.archivo {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+.copyright {
+  color: #d1d1cc;
+  text-align: center;
+  padding-top: 300px;
+
+}
+
+.about {
+  color: #fcf579;
+  font-family: 'Archivo Narrow', sans-serif;
+
+}
+
+
+
+/* font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Permanent Marker', cursive; */
